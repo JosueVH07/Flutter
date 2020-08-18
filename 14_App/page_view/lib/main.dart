@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:lista_infinita/src/app.dart';
+import 'package:page_view/src/App.dart';
 
 void main() {
-  runApp(MaterialApp(
+  runApp(new MaterialApp(
     home: App(),
   ));
 }
