@@ -24,7 +24,7 @@ class _AppState extends State<App> {
                 MaterialPageRoute(
                     builder: (context) => Second(
                           title:
-                              "Hola", //envio de datos por medio de un constructor (datos pequeños)
+                              "Josue", //envio de datos por medio de un constructor (datos pequeños)
                         ))); //renderiza la pantalla en la app
           },
         ),
